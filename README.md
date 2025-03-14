@@ -44,7 +44,7 @@ The Wire library uses a 8-bit address format, so when performing an I2C scan, th
 1. Install the required Arduino libraries:
    - `Wire.h` for I2C communication
    - `IRremote.hpp` for infrared signal processing
-   - `PT2258.h` for handling the volume controller
+   - `PT2258.h` for handling the volume controller (for this use PT2258 library by Marco Lurati)
 2. Upload the provided firmware to the ESP8266.
 3. Connect the hardware components as specified above.
 4. Use the IR remote to adjust volume or send serial commands for manual control.
