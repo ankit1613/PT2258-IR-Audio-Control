@@ -61,4 +61,6 @@ The Wire library uses a 8-bit address format, so when performing an I2C scan, th
 
 ---
 This project is open-source, and contributions are welcome!
+(Link for some picture and Video https://drive.google.com/drive/folders/1sHkkVhawiAOiMvBRH9cFlYkxj8FPFK0v?usp=sharing )
+
 
